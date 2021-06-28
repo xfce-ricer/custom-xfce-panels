@@ -1,0 +1,340 @@
+/*XFCE panel custom gtk.css guide*/
+
+/* USE THE  "GTK_DEBUG=interactive xfce4-panel" command in the terminal to get all your plugin classes before creating your gtk.css*/
+
+/*Basic Elements
+ backgound-color: "hex,rgb etc";
+ color: "hex,rgb etc";
+
+ border-radius: 0px;
+ border-top-left-radius: 0px;
+ border-top-right-radius: 0px;
+ border-bottom-left-radius: 0px;
+ border-bottom-right-radius: 0px;
+
+ margin: 0px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+
+ padding: 0px 0px 0px 0px;
+
+ for more info please see https://developer.gnome.org/gtk3/stable/chap-css-properties.html (there is actaully tons of usual info here if you are in the mood/have time to read).
+
+https://docs.xfce.org/xfce/xfce4-panel/theming
+*/
+
+/*EXAMPLE*/
+
+
+/*Panel*/
+
+.xfce4-panel {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+/* "border-radius: ; " also works */
+}
+
+/*Whisker Menu Plugin*/
+
+#whiskermenu-button {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#whiskermenu-button:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#whiskermenu-button:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+/*Clock*/
+
+#clock-button {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#clock-button:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#clock-button:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+/*Sound button*/
+
+#pulseaudio-button {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#pulseaudio-button:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#pulseaudio-button:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+/*MPD client*/
+/*The ID is obtained by hovering the mouse over the plugin in the panel properties or using the "GTK_DEBUG=interactive xfce4-panel" command in the terminal */
+
+#xfce4-mpc-plugin-"ID" #xfce-panel-button {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#xfce4-mpc-plugin-"ID" #xfce-panel-button:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#xfce4-mpc-plugin-"ID" #xfce-panel-button:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+/*Notification buttuon*/
+
+#xfce4-notification-plugin {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#xfce4-notification-plugin:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#xfce4-notification-plugin:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+/*Clipboard button*/
+
+#xfce4-clipman-plugin {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#xfce4-clipman-plugin:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#xfce4-clipman-plugin:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+/*Window button plugin*/
+
+.xfce4-panel .tasklist .toggle:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+.xfce4-panel .tasklist .toggle:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+.xfce4-panel .tasklist .toggle {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+/* ^ This is used to remove icons from the open window plugin if you only want the text ^*/
+.tasklist image {
+	-gtk-icon-transform: scale(0); margin: -10px;
+}
+
+/*Trash icon plugin*/
+/*The ID is obtained by hovering the mouse over the plugin in the panel properties or using the "GTK_DEBUG=interactive xfce4-panel" command in the terminal */
+
+#thunar-tpa-"ID" #xfce-panel-button:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#thunar-tpa-"ID" #xfce-panel-button:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#thunar-tpa-"ID" #xfce-panel-button {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+/*Workspace switcher*/
+/*The ID is obtained by hovering the mouse over the plugin in the panel properties or using the "GTK_DEBUG=interactive xfce4-panel" command in the terminal */
+
+#pager-"ID" #xfce-panel-toggle-button:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#pager-"ID" #xfce-panel-toggle-button:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#pager-"ID" #xfce-panel-toggle-button {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+/*Launchers*/
+/*The ID is obtained by hovering the mouse over the plugin in the panel properties or using the "GTK_DEBUG=interactive xfce4-panel" command in the terminal */
+
+#launcher-"ID" #launcher-arrow {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#launcher-"ID" #launcher-arrow:checked {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
+#launcher-"ID" #launcher-arrow:hover {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
