@@ -8,27 +8,27 @@ How did I achieve this ? well a lot of playing around with the padding and margi
 
 ### Top Left Panel 
 
-**Menu:** Whisker menu plugin 
+**Menu:** *Whisker menu plugin 
 
-**Files, Music, Internet, Terminal:** These are all launcher plugins  
+**Files, Music, Internet, Terminal:** *These are all launcher plugins  
 
 ### Top Center Panel 
 
-**Sound:** Pulseaudio plugin
+**Sound:** *Pulseaudio plugin
 
-**Clock** Clock plugin 
+**Clock** *Clock plugin 
 
-**Notifications** Xfce Notifcations plugin 
+**Notifications** *Xfce Notifcations plugin 
 
 ### Top Right Panel 
 
-**Bluetooth, Network, Updates, Software center:** This is NOT A SYSTRAY, these are launchers. 
+**Bluetooth, Network, Updates, Software center:** *This is NOT A SYSTRAY, these are launchers. 
 
 ### Bottom Panel
 
-**Workspaces:** Workspace Pager plugin 
+**Workspaces:** *Workspace Pager plugin 
 
-**Current Windows:** Window Button plugin
+**Current Windows:** *Window Button plugin
 
 
 
@@ -40,9 +40,9 @@ How did I achieve this ? well a lot of playing around with the padding and margi
 
 ### OS Details
 
-**Distro:** Linux Mint 20.1 Xfce edition
+**Distro:** *Linux Mint 20.1 Xfce edition
 
-**Theme:** Material Orginals GTK 
+**Theme:** *Material Orginals GTK 
 
-**Icon Set:** Material Orginals Icons 
+**Icon Set:** *Material Orginals Icons 
 
