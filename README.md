@@ -11,7 +11,7 @@ Will contain a few examples of different styles you can achieve, as well as a fu
  - **I have no prior knowledge of css and have written this after a few days of reasearch on creating a gtk.css file to customize the xfce panel. 
 the guide contains some basic classes and more tips if you are keen to go further**
 
-### What to start out with ?? 
+## What to start out with ?? 
 
 1. Please finish reading this to the very end !!! 
 
@@ -22,3 +22,13 @@ the guide contains some basic classes and more tips if you are keen to go furthe
 4. See the "Differet Styles" folder. As the name suggests .... it contians a bunch of different panel styles. Each style will contain its own gtk.css and panel back-up as well as a detailed description of plugins etc... 
 
 5. CREATE YOUR OWN TO MATCH YOUR WORK FLOW !!!!! 
+
+
+###Looking for more info ?? 
+
+[XFCE PANEL THEMING](https://docs.xfce.org/xfce/xfce4-panel/theming) 
+
+[GTK CSS PROPERTIES](https://developer.gnome.org/gtk3/stable/chap-css-properties.html)
+
+Also if you search for XFCE posts on [r/unixporn](https://www.reddit.com/r/unixporn/) you should find some helpful stuff !!! 
+
