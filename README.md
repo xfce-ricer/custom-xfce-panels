@@ -24,7 +24,7 @@ the guide contains some basic classes and more tips if you are keen to go furthe
 5. CREATE YOUR OWN TO MATCH YOUR WORK FLOW !!!!! 
 
 
-###Looking for more info ?? 
+### Looking for more info ?? 
 
 [XFCE PANEL THEMING](https://docs.xfce.org/xfce/xfce4-panel/theming) 
 
