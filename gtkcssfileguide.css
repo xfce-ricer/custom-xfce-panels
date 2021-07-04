@@ -20,9 +20,9 @@
 
  padding: 0px 0px 0px 0px;
 
- for more info please see https://developer.gnome.org/gtk3/stable/chap-css-properties.html (there is actaully tons of usual info here if you are in the mood/have time to read).
+ NB; READ THIS: https://developer.gnome.org/gtk3/stable/chap-css-properties.html (there is actaully tons of usual info here if you are in the mood/have time to read).
 
-https://docs.xfce.org/xfce/xfce4-panel/theming
+& THIS https://docs.xfce.org/xfce/xfce4-panel/theming
 */
 
 /*EXAMPLE*/
@@ -30,7 +30,7 @@ https://docs.xfce.org/xfce/xfce4-panel/theming
 
 /*Panel*/
 
-.xfce4-panel {
+ .xfce4-panel {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -42,7 +42,7 @@ border-bottom-right-radius: ;
 
 /*Whisker Menu Plugin*/
 
-#whiskermenu-button {
+ #whiskermenu-button {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -51,7 +51,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#whiskermenu-button:checked {
+ #whiskermenu-button:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -60,7 +60,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#whiskermenu-button:hover {
+ #whiskermenu-button:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -71,7 +71,7 @@ border-bottom-right-radius: ;
 
 /*Clock*/
 
-#clock-button {
+ #clock-button {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -80,7 +80,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#clock-button:checked {
+ #clock-button:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -89,7 +89,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#clock-button:hover {
+ #clock-button:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -100,7 +100,7 @@ border-bottom-right-radius: ;
 
 /*Sound button*/
 
-#pulseaudio-button {
+ #pulseaudio-button {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -109,7 +109,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#pulseaudio-button:checked {
+ #pulseaudio-button:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -118,7 +118,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#pulseaudio-button:hover {
+ #pulseaudio-button:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -126,11 +126,19 @@ border-top-right-radius: ;
 border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
+
+/*Pulse audio Menu */
+
+  #pulseaudio-button menu .linked button {
+    color: lightblue;   /* This will apply a colour to the mpris button icons */
+    border-color: gray; }  /* This will apply a colour to the mpris button border */
+
+
 
 /*MPD client*/
 /*The ID is obtained by hovering the mouse over the plugin in the panel properties or using the "GTK_DEBUG=interactive xfce4-panel" command in the terminal */
 
-#xfce4-mpc-plugin-"ID" #xfce-panel-button {
+ #xfce4-mpc-plugin-"ID" #xfce-panel-button {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -139,7 +147,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#xfce4-mpc-plugin-"ID" #xfce-panel-button:checked {
+ #xfce4-mpc-plugin-"ID" #xfce-panel-button:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -148,7 +156,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#xfce4-mpc-plugin-"ID" #xfce-panel-button:hover {
+ #xfce4-mpc-plugin-"ID" #xfce-panel-button:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -159,7 +167,7 @@ border-bottom-right-radius: ;
 
 /*Notification buttuon*/
 
-#xfce4-notification-plugin {
+ #xfce4-notification-plugin {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -168,7 +176,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#xfce4-notification-plugin:checked {
+ #xfce4-notification-plugin:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -177,7 +185,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#xfce4-notification-plugin:hover {
+ #xfce4-notification-plugin:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -188,7 +196,7 @@ border-bottom-right-radius: ;
 
 /*Clipboard button*/
 
-#xfce4-clipman-plugin {
+ #xfce4-clipman-plugin {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -197,7 +205,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#xfce4-clipman-plugin:checked {
+ #xfce4-clipman-plugin:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -206,7 +214,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#xfce4-clipman-plugin:hover {
+ #xfce4-clipman-plugin:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -217,7 +225,7 @@ border-bottom-right-radius: ;
 
 /*Window button plugin*/
 
-.xfce4-panel .tasklist .toggle:checked {
+ .xfce4-panel .tasklist .toggle:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -226,7 +234,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-.xfce4-panel .tasklist .toggle:hover {
+ .xfce4-panel .tasklist .toggle:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -235,7 +243,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-.xfce4-panel .tasklist .toggle {
+ .xfce4-panel .tasklist .toggle {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -252,7 +260,7 @@ border-bottom-right-radius: ;
 /*Trash icon plugin*/
 /*The ID is obtained by hovering the mouse over the plugin in the panel properties or using the "GTK_DEBUG=interactive xfce4-panel" command in the terminal */
 
-#thunar-tpa-"ID" #xfce-panel-button:checked {
+ #thunar-tpa-"ID" #xfce-panel-button:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -261,7 +269,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#thunar-tpa-"ID" #xfce-panel-button:hover {
+ #thunar-tpa-"ID" #xfce-panel-button:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -270,7 +278,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#thunar-tpa-"ID" #xfce-panel-button {
+ #thunar-tpa-"ID" #xfce-panel-button {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -282,7 +290,7 @@ border-bottom-right-radius: ;
 /*Workspace switcher*/
 /*The ID is obtained by hovering the mouse over the plugin in the panel properties or using the "GTK_DEBUG=interactive xfce4-panel" command in the terminal */
 
-#pager-"ID" #xfce-panel-toggle-button:checked {
+ #pager-"ID" #xfce-panel-toggle-button:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -291,7 +299,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#pager-"ID" #xfce-panel-toggle-button:hover {
+ #pager-"ID" #xfce-panel-toggle-button:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -300,7 +308,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#pager-"ID" #xfce-panel-toggle-button {
+ #pager-"ID" #xfce-panel-toggle-button {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -308,11 +316,19 @@ border-top-right-radius: ;
 border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
+
+/*Workspace switcher miniture view*/
+
+  wnck-pager:selected {
+    background-color: ; }
+
+  wnck-pager:hover {
+    background-color: ; }
 
 /*Launchers*/
 /*The ID is obtained by hovering the mouse over the plugin in the panel properties or using the "GTK_DEBUG=interactive xfce4-panel" command in the terminal */
 
-#launcher-"ID" #launcher-arrow {
+ #launcher-"ID" #launcher-arrow {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -321,7 +337,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#launcher-"ID" #launcher-arrow:checked {
+ #launcher-"ID" #launcher-arrow:checked {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -330,7 +346,7 @@ border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
 
-#launcher-"ID" #launcher-arrow:hover {
+ #launcher-"ID" #launcher-arrow:hover {
 background-color: ;
 color: ;
 border-top-left-radius: ;
@@ -338,3 +354,15 @@ border-top-right-radius: ;
 border-bottom-left-radius: ;
 border-bottom-right-radius: ;
 }
+
+/*Status Notifer Buttons (Sys-tray)*/
+
+  #sn-button {
+background-color: ;
+color: ;
+border-top-left-radius: ;
+border-top-right-radius: ;
+border-bottom-left-radius: ;
+border-bottom-right-radius: ;
+}
+
