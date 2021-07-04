@@ -11,7 +11,7 @@ Will contain a few examples of different styles you can achieve, as well as a fu
  - **I have no prior knowledge of css and have written this after a few days of reasearch on creating a gtk.css file to customize the xfce panel. 
 the guide contains some basic classes and more tips if you are keen to go further**
 
-###What to start out with ?? 
+### What to start out with ?? 
 
 1. Please finish reading this to the very end !!! 
 
