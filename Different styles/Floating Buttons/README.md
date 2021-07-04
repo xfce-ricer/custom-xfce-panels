@@ -1,3 +1,3 @@
-Alt-#Floating Buttons 
+Alt-H1Floating Buttons 
 
 This panel features a transparent
