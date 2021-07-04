@@ -1,0 +1,651 @@
+.xfce4-panel {
+color: transparent;
+background-color: transparent;
+}
+
+
+
+
+
+
+/**Panel top right**/
+
+
+
+#whiskermenu-button {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#whiskermenu-button:checked {
+background-color: #272727;
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#whiskermenu-button:hover {
+background-color: #272727;
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#pager-29 #xfce-panel-toggle-button:checked {
+background-color: #272727;
+color: #ffffff;
+margin-top: 1px;
+margin-bottom: 1px;
+margin-left: 1px;
+margin-right: 1px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#pager-29 #xfce-panel-toggle-button:hover {
+background-color: #272727;
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 4px;
+margin-right: 4px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#pager-29 #xfce-panel-toggle-button {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+
+#launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-5 #launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-5 #launcher-arrow:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-5 #launcher-arrow:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-28 #launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-28 #launcher-arrow:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-28 #launcher-arrow:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-3 #launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+}
+
+#launcher-3 #launcher-arrow:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-3 #launcher-arrow:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-4 #launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-4 #launcher-arrow:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-4 #launcher-arrow:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+
+
+
+
+/*Panel Top center*/
+
+
+
+
+
+#clock-button {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#clock-button:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#clock-button:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#pulseaudio-button {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#pulseaudio-button:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#pulseaudio-button:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+
+
+#xfce4-notification-plugin {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#xfce4-notification-plugin:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#xfce4-notification-plugin:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+
+
+
+
+
+
+/**Panel Top right**//
+
+
+
+
+
+
+
+#launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+
+}
+
+#launcher-8 #launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+
+}
+
+#launcher-8 #launcher-arrow:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+
+}
+
+#launcher-8 #launcher-arrow:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-10 #launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-10 #launcher-arrow:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-10 #launcher-arrow:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-12 #launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-12 #launcher-arrow:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-12 #launcher-arrow:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-13 #launcher-arrow {
+background-color: #272727;
+color: #ffffff;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-13 #launcher-arrow:checked {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#launcher-13 #launcher-arrow:hover {
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+
+
+
+
+/*Panel Bottom full length*/
+
+
+
+
+.xfce4-panel .tasklist .toggle:checked {
+background-color: #272727;
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.xfce4-panel .tasklist .toggle:hover {
+background-color: #272727;
+color: #ffffff;
+margin-top: 2px;
+margin-bottom: 2px;
+margin-left: 2px;
+margin-right: 2px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.xfce4-panel .tasklist .toggle {
+background-color: #ffffff;
+color: #272727;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+
+/* ^ This is used to remove icons from the open window plugin if you only want the text ^*/
+.tasklist image {
+	-gtk-icon-transform: scale(0); margin: -10px;
+}
+
+
+
