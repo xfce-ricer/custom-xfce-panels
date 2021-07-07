@@ -1,3 +1,4 @@
+
 # Example Panels 
 
 **PLEASE NOTE: I am Currently still making most of these .....**
@@ -14,5 +15,6 @@ I went for the simple yet functional approach here. Transperant panel background
 
 ![VirtualBox_Linux Mint XFCE_01_07_2021_19_35_01 (2)](https://user-images.githubusercontent.com/86624561/124397895-08ff5380-dd13-11eb-8b81-5ddb5b8f6d6a.png)
 
+![77778](https://user-images.githubusercontent.com/86624561/124753884-d1b6bf80-df29-11eb-8f4f-8cf8b84d5794.png)
 
 
