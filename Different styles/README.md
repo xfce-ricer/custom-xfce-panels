@@ -18,7 +18,7 @@ I went for the simple yet functional approach here. Transperant panel background
 
 ## 2. Arc x Nelio - FLoating Panel
 
-This one is a personal favorite, Arc theme using Nelio WM theme ([Nelio theme made by addy-dclxvi](https://github.com/addy-dclxvi/xfwm4-theme-collections/blob/master/README.md))
+This one is a personal favorite, A panel to compliment Arc theme using Nelio WM theme ([Nelio theme made by addy-dclxvi](https://github.com/addy-dclxvi/xfwm4-theme-collections/blob/master/README.md))
 
 **Sneak Peak**
 
