@@ -1,0 +1,277 @@
+.xfce4-panel {
+}
+
+#whiskermenu-button {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#whiskermenu-button:checked {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#whiskermenu-button:hover {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 3px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.xfce4-panel .tasklist .toggle:checked {
+color: #ED1651;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 5px;
+}
+
+.xfce4-panel .tasklist .toggle:hover {
+background-color: #ffffff;
+color: #ED1651;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 5px;
+}
+
+.xfce4-panel .tasklist .toggle {
+background-color: #ffffff;
+border-style: solid;
+border-width: 2px;
+border-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+padding: 5px;
+}
+
+#pager-19 #xfce-panel-toggle-button:checked {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding: 5px;
+}
+
+#pager-19 #xfce-panel-toggle-button:hover {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding: 5px;
+}
+
+#pager-19 #xfce-panel-toggle-button {
+background-color: #ffffff;
+color: #8CC8BC;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #ffffff;
+margin: 4px;
+padding: 5px;
+}
+
+#xfce4-notification-plugin {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#xfce4-notification-plugin:checked {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#xfce4-notification-plugin:hover {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#pulseaudio-button {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#pulseaudio-button:checked {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#pulseaudio-button:hover {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#clock-button {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#clock-button:checked {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+#clock-button:hover {
+background-color: #ffffff;
+color: #ED1651;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: solid;
+border-width: 2px;
+border-color: #8CC8BC;
+margin: 4px;
+padding-left: 15px;
+padding-right: 15px;
+}
